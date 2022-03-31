@@ -13,7 +13,7 @@
 ### 二、使用方法
 命令行执行:
 
-python3 GitHub.py
+python3 github.py
 <img width="1425" alt="image" src="https://user-images.githubusercontent.com/53456907/155297520-0e7fc12c-de5f-460f-85aa-ee0fdb6eb372.png">
 
 
